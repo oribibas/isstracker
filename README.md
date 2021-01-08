@@ -2,7 +2,7 @@
 
 [![Screen-Shot-2021-01-08-at-5-26-45-AM.png](https://i.postimg.cc/7PCvyDMq/Screen-Shot-2021-01-08-at-5-26-45-AM.png)](https://postimg.cc/MX83yCFL) 
 
-![Alt text](!https://media.giphy.com/media/UoNaZV6TCujz7w9r8J/giphy.gif)
+![](icons/ezgif-1-20f60ea65f3b.gif)
 
 Written using HTML, CSS and JavaScript.
 
