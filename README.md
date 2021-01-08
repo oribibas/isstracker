@@ -1,7 +1,7 @@
 # Google Chrome Extension - ISS Distance Tracker
 
 [![Screen-Shot-2021-01-08-at-5-26-45-AM.png](https://i.postimg.cc/7PCvyDMq/Screen-Shot-2021-01-08-at-5-26-45-AM.png)](https://postimg.cc/MX83yCFL) 
-![Alt Text](!https://media.giphy.com/media/UoNaZV6TCujz7w9r8J/giphy.gif)
+![alt-text](!https://media.giphy.com/media/UoNaZV6TCujz7w9r8J/giphy.gif)
 
 Written using HTML, CSS and JavaScript.
 
