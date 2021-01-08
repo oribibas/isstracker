@@ -1,0 +1,60 @@
+body {
+    width: 450px;
+    height: 650px;
+    background-image: url('icons/spacebackground.png');
+}
+
+h2 { 
+    font-size: 38px;
+    letter-spacing: -1px; 
+    color: #d2bad3; 
+    text-transform: uppercase; 
+    text-shadow: 1px 1px 0 #000;
+    line-height: 0.5;
+    text-align: center;
+}
+
+.description {
+    letter-spacing: -1px;
+    color: #d2bad3;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 #000;
+    line-height: 0.1;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    letter-spacing: -1px;
+    color: #d2bad3;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 #000;
+    text-align: center;
+}
+
+.myButton {
+	background-color:#d2bad3;
+	border-radius:28px;
+	border:1px solid #470149;
+	display:inline-block;
+	cursor:pointer;
+	color:#470149;
+	font-family:Arial;
+	font-size:17px;
+	padding: 8px 30px;
+	text-decoration:none;
+}
+
+.myButton:hover {
+	background-color:#8e74a0;
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.container {
+    padding-top: 70px;
+    text-align: center;
+}
