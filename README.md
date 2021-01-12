@@ -11,3 +11,8 @@ https://developers.google.com/maps/documentation/geolocation/overview?utm_source
 
 NASA also maintains a live JSON feed on the position of the ISS position at http://api.open-notify.org/iss-now.json
 I used a getJSON jQuery function to fetch the data.
+
+# Download
+
+The extension is available on the chrome extension store for download, just click the link below and add.
+https://chrome.google.com/webstore/detail/iss-distance/ncgbpckedkmbejlnfgnpmlhibgejimok?hl=en&authuser=0
